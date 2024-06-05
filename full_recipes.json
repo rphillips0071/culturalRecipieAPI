@@ -2665,7 +2665,8 @@
             "name": "Pavlova",
             "description": "Pavlova (meringue dessert): A beloved dessert in New Zealand, known for its crisp crust and soft, light inside, often topped with fruit and whipped cream."
         }
-    }
+    
+    },
     
     {
         "country": "Nicaragua",
@@ -3170,7 +3171,7 @@
             "name": "Torta Tre Monti",
             "description": "Torta Tre Monti (layered wafer cake): A beloved dessert in San Marino, known for its rich flavors and traditional preparation methods."
         }
-    }
+    },
     
     {
         "country": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
