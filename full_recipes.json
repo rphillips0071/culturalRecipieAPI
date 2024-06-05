@@ -2342,7 +2342,7 @@
                 "description": "Mechoui (roasted lamb): A traditional dish from Mauritania, featuring a unique blend of flavors and ingredients that represent the culinary heritage of the region."
             },
             {
-                "name": "Maroilles",
+                "name": "Ngomou",
                 "description": "Maroilles (meat and vegetable stew): A traditional dish from Mauritania, featuring a unique blend of flavors and ingredients that represent the culinary heritage of the region."
             }
         ],
@@ -2649,23 +2649,24 @@
         "country": "New Zealand",
         "dishes": [
             {
-                "name": "H\u0101ngi",
-                "description": "H\u0101ngi (earth oven-cooked meat and vegetables): A traditional dish from New Zealand, featuring a unique blend of flavors and ingredients that represent the culinary heritage of the region."
-            },
-            {
-                "name": "Pavlova",
-                "description": "Pavlova (meringue dessert): A traditional dish from New Zealand, featuring a unique blend of flavors and ingredients that represent the culinary heritage of the region."
+                "name": "Hāngi",
+                "description": "Hāngi (earth oven-cooked meat and vegetables): A traditional dish from New Zealand, featuring a unique blend of flavors and ingredients that represent the culinary heritage of the region."
             },
             {
                 "name": "Fish and Chips",
                 "description": "Fish and Chips: A traditional dish from New Zealand, featuring a unique blend of flavors and ingredients that represent the culinary heritage of the region."
+            },
+            {
+                "name": "Roast Lamb",
+                "description": "Roast Lamb: A traditional dish from New Zealand, known for its succulent meat and delicious flavor."
             }
         ],
         "dessert": {
-            "name": "Anzac Biscuits",
-            "description": "Anzac Biscuits (coconut and oat cookies): A beloved dessert in New Zealand, known for its rich flavors and traditional preparation methods."
+            "name": "Pavlova",
+            "description": "Pavlova (meringue dessert): A beloved dessert in New Zealand, known for its crisp crust and soft, light inside, often topped with fruit and whipped cream."
         }
-    },
+    }
+    
     {
         "country": "Nicaragua",
         "dishes": [
